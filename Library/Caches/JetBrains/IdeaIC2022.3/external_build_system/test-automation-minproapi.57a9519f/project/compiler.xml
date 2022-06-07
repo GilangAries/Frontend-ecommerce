@@ -1,0 +1,7 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="test-automation-MinProAPI" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
