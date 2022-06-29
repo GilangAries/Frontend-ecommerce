@@ -1,13 +1,11 @@
 <template>
-  <div>
-    <p>index</p>
-    <h1>hallo</h1>
+  <div class="mt-custom mb-5">
+    <div class="fade-in">
+      <h1 class="text-center">SANTRI KODING</h1>
+    </div>
   </div>
 </template>
 
 <script>
-export default {
-  //test
-  name: "IndexPage",
-};
+export default {}
 </script>
